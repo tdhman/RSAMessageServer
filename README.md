@@ -36,5 +36,6 @@ heroku addons:create cleardb
 
 # Note
 - Remember to define necessary dependencies for app in pom.xml
+- Modify Preferences.java to change BASE_URL to web server's url.
 
 
